@@ -25,7 +25,7 @@
   * You may want to submit UEVR.zip to www.virustotal.com to make sure it's not malware - __you should be doing this with any game mod you download!__
 * Unzip the UEVR.zip into a known location 
 * Create a "scripts" folder inside the unzipped UEVR folder
-* Download the script pot\_vrcamera.lua from this repo and place it in the scripts folder in the unzipped location of UEVR
+* Download the script pot\_vrcamera.lua from this repo (click on the file and then click on raw) and place it in the scripts folder in the unzipped location of UEVR
 * Start Path of Titans
 * Disable anti cheat under Settings -> Game (gear in the upper right in the launcher next to your user name)
 
